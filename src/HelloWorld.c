@@ -1,10 +1,5 @@
-#include <stdio.h>
-
-int main()
-{
-	printf("%s", "Giang");
+#include<stdio.h>
+int main(){
+	printf("Hello World");
 	return 0;
 }
-
-
-
